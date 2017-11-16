@@ -1,7 +1,7 @@
 /*
 	PGA Coursework - Airport simulation
-	Name    : Ameer Sorne
-	ID      : 023423
+	Name    : #######
+	ID      : #######
 	File(s) : Airport Simulation.c
 			  input.txt
 	          output.txt
