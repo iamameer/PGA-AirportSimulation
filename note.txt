@@ -1,0 +1,8 @@
+Imperfection(s):
+
+1. Plane ID limited to 7 characters [XX 1111] (8 including null terminator)
+2. lacking in checking which runaway is less contented (due to misread of questions)
+3. function enqueue (aka sorting linked list into run0/run1) halted, due to lack of knowledge in sorting linked list
+4. function decrement & function check needed to be revised since it's conflicting between fuel and range
+5. function increment becomes redundant since queueing time isnt really used
+6. Planes cannot be the same time or name, else, first come first served basis.
